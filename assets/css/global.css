@@ -14,6 +14,21 @@ body {
     background-color: #fff;
 }
 
+
+.bt {
+    cursor: pointer;
+    padding: .25rem .5rem;
+    margin: .25rem 0;
+    font-size: .625rem;
+    color: #fff;
+    background-color: #c3c3c7;
+    border: none;
+    border-radius: 1rem;
+}
+.btn {
+    cursor: pointer;
+}
+
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
